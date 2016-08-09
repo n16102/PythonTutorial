@@ -1,0 +1,8 @@
+while true:
+try:
+x = int(input("please put the number:"))
+break
+xecept valueerror:print(oh!this is not valid number..")
+
+
+print('once more')
